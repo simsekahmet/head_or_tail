@@ -1,2 +1,2 @@
-# head_or_tail
-Heads or Tails is a simple game whether a flipped coin will land on heads or tails.
+# HEAD or TAIL
+When conducting a small number of coin flips, it is important to remember that the observed outcomes may differ from the expected probability of 50% due to random variation. Therefore, it is necessary to interpret the results cautiously and avoid assuming any inherent bias in the coin. To address this, a for loop has been implemented, enabling you to flip the coin as many times as desired and displaying the probabilities of the experimental results.
